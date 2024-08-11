@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274881936981",
+    "project_id": "colleze-d0de5",
+    "storage_bucket": "colleze-d0de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274881936981:android:d16dc7f9aa974fd5151edc",
+        "android_client_info": {
+          "package_name": "com.colleze.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHqhY5yNCTEX2nXZ6zlUjU8O9vvlWgH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
